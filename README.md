@@ -1,6 +1,0 @@
-# kalingashop
-
-hello
-hi
-
-hello
